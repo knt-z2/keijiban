@@ -1,0 +1,121 @@
+.logo{
+    width:250px;
+}
+
+header{
+    width:100%;
+    height:60px;
+    background-color: black;
+}
+
+header ul{
+    list-style: none;
+    line-height:60px;
+}
+
+header ul li{
+    float:left;
+    padding-right:50px;
+    padding-left:50px;
+    color:white;
+}
+
+.main{
+    clear:left;
+}
+
+.contents{
+    width:100%;
+}
+
+.left{
+    float:left;
+    width: 70%;
+    padding-right: 60px;
+    margin-bottom: 60px;
+}
+
+.left h1{
+    border-bottom: 1px solid black;
+    border-left:5px solid black;
+}
+
+.left h2{
+    margin-top:30px;
+    margin-bottom:20px;
+    border-left:4px red solid;
+    padding-top:5px;
+    padding-bottom:5px;
+    width:500px;
+    font-size:20px;
+}
+
+form{margin:0 auto;
+    background-color: #fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:100%;
+    height:520px;
+    margin-bottom:20px;
+}
+
+form div{
+    padding:10px;
+}
+
+.text,.textarea{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px gray;
+}
+
+.kiji{
+    margin-bottom:20px;
+    background-color: #fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    margin-right: 80px;
+    font-size: 20px;
+    width:100%;
+}
+
+
+
+
+.right{
+    float:left;
+    width:25%;
+}
+
+.right ul li{
+    list-style-type:none;
+}
+
+.right h2{
+    border-bottom:2px dotted black;
+}
+
+footer{
+    float:left;
+    clear:left;
+    margin-top: 40px;
+    width:100%;
+    height:60px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
